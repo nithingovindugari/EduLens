@@ -1,5 +1,3 @@
-## EduLens : A Study on Student Performance
-
 # EduLens: Advanced Student Performance Analysis System
 
 ## Introduction
@@ -51,12 +49,12 @@ EduLens is built using a variety of technologies:
    ```bash
    http://localhost:5000/
 
-# Dataset has been simplified due to GitHub's file size restrictions. 
+## Dataset has been simplified due to GitHub's file size restrictions. 
 
 
-# Sample Test
+## Sample Test
 ![Alt text](image.png)
 
-# Results
+## Results
 ![Alt text](image-1.png)
 
